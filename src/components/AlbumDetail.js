@@ -46,7 +46,8 @@ const styles = {
     },
     thumbnailStyle: {
         height: 50,
-        width: 50
+        width: 50,
+        borderRadius: 2
     },
     thumbnailContainerStyle: {
         justifyContent: 'center',
@@ -57,7 +58,8 @@ const styles = {
     imageStyle: {
         height: 500,
         flex: 1,
-        width: null
+        width: null,
+        borderRadius: 2
     }
 };
 
